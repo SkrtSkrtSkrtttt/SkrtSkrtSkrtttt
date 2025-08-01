@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Naafiul Hossain!
 
-I'm an aspiring software engineer who thrives at the intersection of hardware and software. From real-time Linux kernel modules to IR-controlled robotic arms and browser-based games like 2048, I love turning technical challenges into elegant solutions.
+I'm an aspiring software engineer who thrives at the intersection of hardware and software. From real-time Linux kernel modules to IR-controlled robotic arms and browser-based games like 2048, I love turning technical challenges into solutions.
 
 ---
 ## Quote
@@ -19,7 +19,7 @@ I'm an aspiring software engineer who thrives at the intersection of hardware an
 
 - 🔬 **Hardware Design**  
   VHDL, 4-stage pipelined processor, MIP ASM
-  See: [4-stage-pipelined-processor_vhdl](https://github.com/SkrtSkrtSkrtttt/4-stage-pipelined-processor_vhdl)
+  Ex: [4-stage-pipelined-processor_vhdl](https://github.com/SkrtSkrtSkrtttt/4-stage-pipelined-processor_vhdl)
 
 - 🌐 **Side Projects & Web Dev**  
   Frontend games like [2048 JS Clone](https://github.com/SkrtSkrtSkrtttt/2048-js-clone)
