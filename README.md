@@ -17,7 +17,7 @@ I'm an aspiring software engineer who thrives at the intersection of hardware an
   Kernel modules, Netlink sockets, Linux   
   Linux projects: [Netlink Pub/Sub RTOS](https://github.com/SkrtSkrtSkrtttt/netlink-pubsub-rtos)
 
-- 🔬 **Hardware Design**  
+- 🔬 **Hardware Design/FPGA**  
   VHDL, 4-stage pipelined processor, MIP ASM
   Ex: [4-stage-pipelined-processor_vhdl](https://github.com/SkrtSkrtSkrtttt/4-stage-pipelined-processor_vhdl)
 
