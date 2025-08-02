@@ -10,7 +10,7 @@ I'm an aspiring software engineer who thrives at the intersection of hardware an
 
 - 🧠 **Embedded Systems**  
   C/C++ on microcontrollers, PWM, UART, IR, I2C  
-  Arduino projects: [Robotic Arm](https://github.com/SkrtSkrtSkrtttt/Robotic-Arm), [Lazy Susan Cabinet](https://github.com/SkrtSkrtSkrtttt/LazySusanCabinet),
+  Arduino projects: [Robotic Arm](https://github.com/SkrtSkrtSkrtttt/Robotic-Arm-), [Lazy Susan Cabinet](https://github.com/SkrtSkrtSkrtttt/LazySusanCabinet-),
   AVR Projects:  [Air Monitoring System](https://github.com/SkrtSkrtSkrtttt/air-monitoring-system-avr128db48)
 
 - 🖥️ **Multithreaded Programming**  
