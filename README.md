@@ -37,6 +37,18 @@ I'm an aspiring software engineer who thrives at the intersection of hardware an
 📄 [Connect with me on LinkedIn](https://www.linkedin.com/in/naafiul-hossain) to view my resume and learn more about my experience
 
 ---
+## **Current Projects**
+
+### **👁️ DepthPerception – Senior Design (2025–2026)**
+A vision-based hazard-detection system using the Intel RealSense D435i (RGB-D).  
+Includes:
+- Real-time obstacle detection  
+- Motion tracking  
+- Planned YOLO-based smoke/fire detection  
+- Future hardware integration with ESP32 (vibration motor, LED, buzzer, gas sensors)
+
+🔗 **Repository:** https://github.com/SkrtSkrtSkrtttt/DepthPerception-SeniorDesign
+---
 
 ## 📌 Highlighted Repos
 
