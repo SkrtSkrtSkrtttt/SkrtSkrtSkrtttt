@@ -27,7 +27,7 @@ I'm an aspiring software engineer who thrives at the intersection of hardware an
 ---
 
 ## 💼 Experience
-- **Associate Software Engineer** (Full-Time) @ L3Harris (2026)
+- **Associate Software Engineer** (Full-Time) @ L3Harris (2026-Present)
 - **B.E. Computer Engineering** @ Stony Brook (2026)
 - **Software Intern** @ L3Harris (2025)  
 - **Hardware Intern** @ Arm (2024)  
