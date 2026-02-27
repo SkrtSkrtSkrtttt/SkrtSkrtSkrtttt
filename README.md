@@ -5,6 +5,21 @@ I'm an aspiring software engineer who thrives at the intersection of hardware an
 ---
 ## Quote
 ⭐ "The Inner Machinations Of My Mind Are An Enigma" -Patrick Star
+
+---
+## 🌐 Portfolio Website
+
+🔗 **Live Site:** https://naafiulhossainportfolio.netlify.app/
+
+My personal engineering portfolio showcasing my experience at L3Harris and Arm, along with projects in embedded systems, Linux kernel development, FPGA design, and computer vision.
+
+Features:
+
+- DepthPerception hazard detection system
+- Embedded firmware projects
+- Linux kernel Netlink RTOS system
+- FPGA pipelined processor
+- Resume and contact information
 ---
 ## 🔧 What I Work On
 
