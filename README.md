@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Naafiul Hossain!
 
-I'm an aspiring software engineer who thrives at the intersection of hardware and software. From real-time Linux kernel modules to IR-controlled robotic arms and browser-based games like 2048, I love turning technical challenges into solutions.
+Software Engineer with a focus on building systems at the intersection of hardware and software. I work on embedded systems, real-time processing, and computer vision pipelines, turning complex technical challenges into practical, real-world solutions.
 
 ---
 ## Quote
@@ -55,12 +55,17 @@ Features:
 ## **Current Projects**
 
 ### **👁️ DepthPerception – Senior Design (2025–2026)**
-A vision-based hazard-detection system using the Intel RealSense D435i (RGB-D).  
-Includes:
-- Real-time obstacle detection  
-- Motion tracking  
-- Planned YOLO-based smoke/fire detection  
-- Future hardware integration with ESP32 (vibration motor, LED, buzzer, gas sensors)
+A real-time vision-based hazard detection and navigation system using the Intel RealSense D435i (RGB-D) and FLIR Lepton thermal camera.
+
+Features:
+- YOLOv8-based object detection for hazards and obstacles  
+- Depth-based 3D spatial awareness and motion tracking  
+- Thermal sensing using a FLIR Lepton camera for heat-based hazard detection  
+- Occupancy grid mapping with A* path planning for safe exit navigation  
+
+Future Work:
+- Android application for real-time hazard visualization and navigation guidance--steraming the data from IntelRealsense 
+- Wireless streaming of multimodal sensor data (RGB, depth, thermal)  
 
 🔗 **Repository:** https://github.com/SkrtSkrtSkrtttt/DepthPerception-SeniorDesign
 ---
