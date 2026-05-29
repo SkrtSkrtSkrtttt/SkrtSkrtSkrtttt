@@ -75,8 +75,8 @@ Future Work:
 | Project | Tech | Description |
 |--------|------|-------------|
 | [Air Monitoring System](https://github.com/SkrtSkrtSkrtttt/air-monitoring-system-avr128db48) |  AVR, I2C | Sensor system for CO₂, temp, humidity using AVR128DB48 |
-| [Netlink Pub/Sub](https://github.com/SkrtSkrtSkrtttt/netlink-pubsub-rtos) | Linux C, Kernel | Real-time comm system between user and kernel processes |
-| [Robotic Arm](https://github.com/SkrtSkrtSkrtttt/Robotic-Arm-) | Arduino, IR | Multi-servo arm controlled via IR remote |
+| [Vision-Based Smart Indoor Hazard Detection & Navigation System ](https://github.com/SkrtSkrtSkrtttt/DepthPerception-SeniorDesign) | Embedded C, FreeRTOS, ES3P2 | PythonCV, Roboflow, IntelRealsense |
+| [Touchless-Media-Contro](https://github.com/SkrtSkrtSkrtttt/Touchless-Media-Control)| Python, OpenCV | Intel RealSense |
 | [Lazy Susan Cabinet](https://github.com/SkrtSkrtSkrtttt/LazySusanCabinet-) | Arduino, CAD | Budget smart kitchen cabinet, 3D printed and CNC-built |
 | [4-Stage Processor](https://github.com/SkrtSkrtSkrtttt/4-stage-pipelined-processor_vhdl) | VHDL, C++ | Simulated pipelined processor w/ custom assembler |
 | [2048 JS Clone](https://github.com/SkrtSkrtSkrtttt/2048-js-clone) | HTML, JS | Fun side project: recreate 2048 from scratch |
